@@ -1,10 +1,3 @@
-/*
-    Riparip, Marc Darel C.
-    Publico, Philip Leonel L.
-    BSIT WMA-3B
-    OOP
-*/
-
 import java.util.Scanner;
 
 public class MainOrder {

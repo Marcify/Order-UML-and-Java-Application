@@ -1,10 +1,3 @@
-/*
-    Riparip, Marc Darel C.
-    Publico, Philip Leonel L.
-    BSIT WMA-3B
-    OOP
-*/
-
 public class Order {
     private int customerNumber;
     private String customerName;
